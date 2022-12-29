@@ -3,3 +3,5 @@
 *.txt
 
 !seventh.python
+
+[aeiou]*.pdf
