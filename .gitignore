@@ -1,3 +1,5 @@
 *.python
 *.net
 *.txt
+
+!seventh.python
